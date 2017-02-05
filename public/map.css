@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+}
+
+#member{
+	background-color:rgb(255,255,255);
+	width: 900px;
+	height: 25px;
+	margin-bottom: 0;
+}
+
+#member img{
+	height:20px;
+}
+
+#main{
+	width: 1200px;
+	height: 95%;
+	margin:0px auto;
+}
+
+#select{
+	background-color:rgb(0,255,0);
+	width: 1200px;
+	height: 40px;
+	padding-top:10px;
+}
+#type{
+	display:inline;
+}
+
+.map_route{
+	width:1200px;
+	height:500px;
+}
+
+#map{
+	width: 900px;
+	height: 500px;
+	float:left;
+	margin: 0;
+}
+.scrollFix {
+    line-height: 1.35;
+    overflow: hidden;
+    white-space: nowrap;
+}
+
+#route{
+	width: 300px;
+	height: 500px;
+	float:right;
+	overflow:scroll;
+}
+
+#location{
+	width: 1200px;
+	height: 300px;
+}
+
+#information{
+	width:350px;
+	height:300px;
+	float:left;
+}
+
+#information img{
+	float:left;
+	height:215px;
+	width:200px;
+}
+
+#basic_information{
+	float: right;
+    height: 215px;
+    width: 150px;
+}
+
+#introduction{
+	
+	margin-left: 350px;	
+	width: 450px;	
+	position: absolute;
+}
+
+#vote{
+	width: 400px;
+	height:300px;
+	float:right;
+}
+
+#bar{
+	width:300px;
+	height:300px;
+	float:right;
+}
+
+#bar img {
+	width:300px;
+	height:300px;
+}
+#vote form{
+	float:left;
+	width:60px;
+	position:absolute;
+}
+
+#vote button{
+	float:left;
+	margin-top:125px;
+}
